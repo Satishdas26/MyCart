@@ -60,7 +60,7 @@ border-bottom-left-radius: 2px;
 
 /* BANNER*/
 .banner{
-    background-image: url('/WebDev_Internship/project/cart/banner.jpg') ;
+    background-image: url('./cart/banner.jpg') ;
     height: 500px;
     background-size: cover;
 }
